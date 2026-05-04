@@ -1,5 +1,25 @@
+
 .Details{
 
 text-align: right;
 }
+
+=======
+.Tache {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: black;
+}
+
+.button {
+display: flex;
+justify-content: center;
+gap: 10px;
+border-radius: rgb(199, 17, 17);
+}
+
+
 
