@@ -1,16 +1,17 @@
 
-const details = document.querySelector("reponse1").value
-
-
-
 let tasks = [
 {
 id: 1,
-title: "Faire les courses",
-description: "Acheter du lait et du pain",
+title: "Fitness",
+description: "",
 done: false
 }
-];
+]
+=======
+
+const details = document.querySelector("reponse1").value
+
+
 
 let choix
 let taches = ["Menages", "Cuisiner", "Sports", "Sorties"];
@@ -22,3 +23,4 @@ if (choix == taches(0) || choix == taches(1) || choix == taches(2) || choix == t
   }
 }
 details.addEventListener("click", () => taches)
+
