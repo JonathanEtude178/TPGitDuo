@@ -1,16 +1,17 @@
-body {
-background-color: black;
-
+.Tache {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: black;
 }
 
-
-h1 {
-text-align: center;
-
+.button {
+display: flex;
+justify-content: center;
+gap: 10px;
+border-radius: rgb(199, 17, 17);
 }
 
-.ajout {
-align-items: center;
-
-}
 

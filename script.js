@@ -6,3 +6,14 @@ description: "Acheter du lait et du pain",
 done: false
 }
 ];
+
+console.log(Tache);
+
+function taches() {
+
+if() {
+    
+}
+
+
+}
